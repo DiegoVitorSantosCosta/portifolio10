@@ -7,20 +7,17 @@ class efect{
         
          let element = document.querySelectorAll('.c1')
          let boxs = document.querySelectorAll('.square')
+         let boxsLeft = document.querySelectorAll('.left')
+         let h1 = document.querySelectorAll('.h1')
 
         //  let carousel = document.querySelector('.carousel')
 
          this.ExtractExecut(element,'off1','on1');
          this.ExtractExecut(boxs,'off1','on1');
+         this.ExtractExecut(boxsLeft,'off2','on2');
+         this.ExtractExecut(h1,'off2','on2')
          
-        //  this.addEfect(carousel,'carouselEfectOff')
-
-        //  window.onload = function(){
-
-         
-        //         this.removeEfect(carousel,off)
-        //         this.addEfect(carousel,on)
-        //  }
+        
              
  
          

@@ -49,6 +49,8 @@
 #formEmail{
     padding: 10px;
     display: block;
+}.seta{
+    margin-left: 5px;
 }
 #formEmail textarea{
     padding: 15px;
@@ -60,18 +62,22 @@ margin: 10px auto;
 }
 #mainNav{
     background-color: #ff751f;
+}.cardUl {
+    font-size: 25px;
+    color: white;
+    margin-right: 8px;
 }
 .nav ul li a {
     color: white;    
     border-right: 1px white solid;
     
-
-
 }.nav ul li a:hover{
     opacity: 0.5;
    background-color:#ff751f;
     
     
+}.btnDrop{
+    display: none;
 }
 .col{
     margin: 10px;
@@ -142,7 +148,7 @@ form{
     
     text-align: center;
 }
-.square{
+.square,.square1{
 background-color: #D8DCD6;
 
 }.description p{

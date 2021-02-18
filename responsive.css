@@ -1,0 +1,24 @@
+@media (max-width: 600px){
+    .ul{
+        display: none;
+
+    }
+    .ulDrop{
+        display: block;
+       height: 200px;
+       position: absolute;
+        width: 400px;
+
+    }.ulDrop li{
+        display: inline;
+        float: left;
+        margin: 50px;
+        width: 100%;
+        border: none;
+    }.nav .ulDrop li a{
+        border: none;
+       
+    }.btnDrop{
+        display: block;
+    }
+}

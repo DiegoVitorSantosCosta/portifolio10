@@ -6,12 +6,17 @@
 .on1{
     opacity: 1;
     transform: translateY(0);
-    transition: all linear 0.5s;
+    transition: all linear 1s;
 } .on2{
     opacity: 1;
     transform: translateX(0);
-    transition: all linear 0.5s;
-}.off1{
+    transition: all linear 1s;
+}.off2{
     opacity: 0;
      transform: translateX(-90px); 
+}.drop{
+    display: block;
+    
+}.unDrop{
+    display: none;
 }
