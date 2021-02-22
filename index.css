@@ -121,7 +121,9 @@ form{
 }.btnConf{
     padding: 10px 20px;
     background-color: white;
+    color: black;
     border-radius: 100px;
+    text-decoration: none;
 
 }.square a{
     text-decoration: none;
