@@ -1,8 +1,5 @@
 .main{
     text-align: center;
-}.nav{
-    background-color: ;
-
 }.nav ul{
     padding: 0;
     margin: 10px 0px;
@@ -140,11 +137,12 @@ form{
     z-index: 10000;
     border-radius: 100px;
     text-decoration: none;
-    color: black;
+    color: white;
     font-optical-sizing: 20px;
    
     
-    background-color: white;
+    background-color: #cccc;
+    border: black solid 1px;
 }.carousel  p{
      margin-top: 20px;
     
@@ -201,4 +199,39 @@ background-color: #D8DCD6;
     background-size: cover;
     height: 500px;
     width: 100%;
+}.nav-item a{
+    padding-right: 30px;
+    
+    border-right: solid 1px black;
+}.nav-item a:hover{
+    opacity: 0.7;
+    background-color:#ff7017 ;
+
+
+}.nav-item p{
+    margin-right: 20px;
+}navNormal{
+    background-color:#FD8D49 ;
+}nav a{
+    font-size: 20px;
+}.close{
+    position: absolute;
+    z-index: 500;
+    font-size: 70px;
+    color: white;
+    left: -8px;
+    top: -0px;
+}.navNormal a{
+    color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
