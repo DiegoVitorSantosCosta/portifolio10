@@ -8,9 +8,10 @@ class efect{
          let boxs = document.querySelectorAll('.square')
          let boxsLeft = document.querySelectorAll('.left')
          let h1 = document.querySelectorAll('.h1')
+         let wpp = document.querySelector('.wpp')
          this.logo = document.querySelector('.logoTop')
 
-        //  let carousel = document.querySelector('.carousel')
+        this.wppEfect(wpp)
 
          this.ExtractExecut(element,'off7','on7');
          this.ExtractExecut(boxs,'off1','on1');
@@ -73,6 +74,17 @@ class efect{
         this.ul.classList.add('show')
         this.ul.classList.remove('hide')
     }
+    wppEfect(el){
+        setInterval(() => {
+            this.addEfect(el,'wp')
+        }, 1000 * 2);
+
+        // setTimeout(() => {
+        //     this.addEfect(el,'wp')
+        // },1000 * 2);
+      
+    }
+   
 }
 
 window.efects = new efect

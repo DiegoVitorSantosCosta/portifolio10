@@ -1,6 +1,6 @@
 @media (max-width: 575.98px) { 
     .carousel-item img{
-        height: 200px;
+        height: 250px;
     }
     .c1{
         padding: 0px ;
@@ -18,10 +18,10 @@
     }.wpp{
         display: block;
         position: fixed;
-        right: 0;
+        right: 5px;
         bottom: 20px;
         z-index: 400;
-        font-size: 40px;
+        font-size: 50px;
     }.wppNavResponse{
         display: none;
      
@@ -50,9 +50,9 @@
     .logoTop{
         position:absolute ;
         left: 0px;
-        bottom: 0px;
-        width: 100px;
-        height: 70px;
+        bottom: -5px;
+        width: 120px;
+        height: 80px;
         z-index: 700;
     }
   
@@ -89,7 +89,7 @@
     
     .hamburguer{
         height: 60px;
-        width: 60px;
+        width: 200px;
         margin: 0;
         margin-left: 50%;
         transform: translateX(-50%);
@@ -101,8 +101,9 @@
         height: 100%;
         position: absolute;
         box-sizing: border-box;
-        left: 0;
+        right: -220px;
         top: 3px;
+        
         
     }
     .span{
@@ -182,6 +183,7 @@
         transition: all linear 1s;
     }.wpp {
         display: none;
+       
     }.header{
         display: none;
     }.liNav li{

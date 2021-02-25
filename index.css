@@ -224,6 +224,9 @@ background-color: #D8DCD6;
 }.navNormal a{
     color: white;
 }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        margin-top: 45px;
+    }
 
 
 

@@ -27,4 +27,17 @@
 .show{
     transform: translateY(0);
     transition: all 0.1s linear;
-}
+}.wp {
+   
+    /* animation: go-back 1s infinite alternate; */
+    animation: go-back 1s infinite alternate-reverse;
+  }
+  
+  @keyframes go-back {
+    from {
+      transform: translateY(7px);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
