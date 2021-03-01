@@ -44,7 +44,7 @@
 
       <!-- icone do whatsap fixo para mobile -->
       <div class="wpp">
-      <a target="_blank" class="nav-link " href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab i fa-whatsapp"></i> </a>
+      <a target="_blank" class="nav-link " href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab i fa-whatsapp"></i> </a>
       </div>
 
               <!-- MODAL DO EMAIL -->
@@ -97,14 +97,14 @@
 
 <!-- NAV  -->
     <div class="navNormal">
-    <nav class="navbar navNormal" style=" background-color: #ff751f;">
+    <nav class="navbar navNormal" style=" background-color: black;">
   <div class="container-fluid">
     <a class="" href="#"><img width="100px" src="/img/ofertas/decora-removebg-preview.png" alt=""></a>
    
   
       <ul class="m-0 navbar ulNav liNav">
         <li class="nav-item">
-          <a target="_blank" class="nav-link wpp" href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab i fa-whatsapp"></i> Whatsapp </a>
+          <a target="_blank" class="nav-link wpp" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab i fa-whatsapp"></i> Whatsapp </a>
 
         </li>
         <li class="nav-item">
@@ -131,28 +131,27 @@
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="/img/ofertas/2.png" height="600px" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
            
-               <p><a href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
+               <p><a href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="/img/ofertas/Blue Red and Black Classic Maximalist Sports Football Event Banner.png" height="600px" class="d-block w-100" alt="...">
+            <img src="/img/ofertas/sofa2lugar.png" height="600px" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
 
-              <p><a href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
+              <p><a href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
 
             </div>
           </div>
           <div class="carousel-item">
-            <img src="/img//ofertas/Yellow and Black Refined Sports Team Football Banner.png" height="600px" class="d-block w-100" alt="...">
+            <img src="/img//ofertas/cama.png" height="600px" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <p><a href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
+              <p><a href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
 
             </div>
           </div>
@@ -178,12 +177,12 @@
           <h3>Preço baixo!</h3>
           <p>Melhor preço da região confira.</p>
         </div>
-        <div class="col c1">
-          <img width="100px" src="https://img.icons8.com/dotty/80/000000/document-delivery--v2.png"/>
+        <!-- <div class="col c1">
+        <img width="100px" src="/img/caminhao.svg"/>
           <h3>Entregamos o seu produto!</h3>
           <p>Frete gratis.</p>
 
-        </div>
+        </div> -->
         <div class="col c1">
           <img width="100px" src="https://img.icons8.com/cute-clipart/64/000000/discount.png"/>
           <h3>Dividimos no cartao de crédito!</h3>
@@ -197,13 +196,82 @@
       <section class="main">
           <h1 class="h1">Imagens de destaques !</h1>
           <hr>
-        <div class="container-fluid " >
-        
+          <div class="container-fluid destaques">
+        <div class="row text-center">
+        <!-- <div id="btn"  class="caixa square"> -->
 
- 
-
-           
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofaVermelho-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
         </div>
+        
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/baú-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Box baú </h2>
+                   <p><s>0000.00 R$</s> por 000.00 R$</p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div style="display: none;" class="w-100"></div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofa-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá  Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaCinza-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+
+      
+        
+      </div>  <!-- fim row -->
+
+
+      <div class="row text-center">
+        <!-- <div id="btn"  class="caixa square"> -->
+
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaLargoDoisLugares-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá dois Lugares </h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaMarron-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá dois Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div style="display: none;" class="w-100"></div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofaParaFamilia-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/baú-removebg-preview.png" alt="">
+          <div class="description">
+                    <h2>Box báu</h2>
+                   <p></p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+
+      </div>
+          </div>
               
 
         <div class="img">
@@ -211,43 +279,49 @@
         </div>
         <hr>
       <h1 class="h1">Linha de Produtos</h1>
-      
-        <hr>
-
+          
         <div class="div">
-            <div class="">
-              <div id="btn"  class="  caixa square">
-                <img width="300px" height="200px" class="" src="/img/imgagensDaLoja/img1.jfif" alt="">
+       
+            <div  class="colunas">
+               <p class="h1">Descubra a decora premiun</p>
+            
+              <div id="btn"  class="caixa square">
+                <img width="250px" height="200px"   id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img1-removebg-preview.png" alt="">
                 <div class="description">
-                    <h2>Sofá</h2>
-                   <p></p>
-                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar R$</p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
 
                 </div>
               </div>
+           
 
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img2.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img2-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Colchão</h2>
+                    <h2>Colchão Solteiro de Espuma</h2>
+                   <p>R$ 000.00 R$ 10x de 0R$</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img3.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img3-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Sofá</h2>
+                    <h2>Sofá três lugares</h2>
+                   <p>Preço a negociar R$</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
-
-
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/mg4.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img8-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Sofá</h2>
+                    <h2>Sofá dois lugares marrom</h2>
+                   <p>Preço a negociar R$</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
@@ -256,84 +330,154 @@
             </div>
 
 
-            
+            <div class="colunas" >
+              <p class="h1">Produtos com preço de fabrica comfira já.</p>
+
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img5.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img5-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Sofá</h2>
+                    <h2>Sofá Herval Flora, 2 Lugares e Chaise-longue</h2>
+                   <p>Preço a negociar</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div  id="btn"class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img6.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img6-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Nome</h2>
+                  <h2>Box baú Auxiliar solteiro 40,5x138x188cm - Branco</h2>
+                   <p><s>R$0000.00</s> por 000.00 10x de 00.00 R$</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img7.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img7-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Cama</h2>
+                    <h2>Cama Box Baú Casal  Preto com Pistão a gás - 138x188</h2>
+                   <p><s>0000.00 R$</s> por 0000.00 R$ 10x de 000.00 R$</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img8.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img8-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Sofá</h2>
+                    <h2>Sofá três lugares otimos para sala</h2>
+                   <p>Preço a negociar</p>
+                   <p></p>
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+            </div>
+            <div  class="colunas">
+              <p class="h1">Clique em um minuto e seja atendido no outro!</p>
+
+              <div id="btn" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
+
+                <div class="description">
+                    <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
+                   <p>Preço a negociar</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img9.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Sofá</h2>
+                    <h2>Colchão magnetico + box baú </h2>
+                   <p>R$ 0000.00 10x de 000.00</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img10.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Cama</h2>
+                    <h2>Sofá 3 Lugares Retrátil branco</h2>
+                   <p>Preço  a negóciar</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img11.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
+
+                <div  class="description">
+                    <h2>Cabeceira de cama box casal</h2>
+                   <p>R$ 0000.00 10x de 00.00R$</p>
+                   <p></p>
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+              </div>
+
+              
+              <h1 style="margin:0 ;"  class="h1 maisVendidos">Mais vendidos</h1>
+              
+                <hr style="margin:0;">
+
+                <div  class="colunas">
+              <p class="h1">Produtos revelantes</p>
+
+              <div id="btn" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Nome</h2>
+                    <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
+                   <p>Preço a negociar</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img12.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Cama</h2>
+                    <h2>Colchão magnetico + box baú </h2>
+                   <p>R$ 0000.00 10x de 000.00</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-                <img height="200px" src="/img/imgagensDaLoja/img13.jfif" class=""  width="300px" alt="">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
+
                 <div class="description">
-                    <h2>Nome tecnico do produto.</h2>
+                    <h2>Sofá 3 Lugares Retrátil branco</h2>
+                   <p>Preço  a negóciar</p>
                    <p></p>
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
+              <div id="btn" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
+
+                <div  class="description">
+                    <h2>Cabeceira de cama box casal</h2>
+                   <p>R$ 0000.00 10x de 00.00R$</p>
+                   <p></p>
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+              </div>
+            </div>
+
+            <div class="container-fluid">
+              <h1>Onde estamos</h1>
+              <div>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1616.4317705562728!2d-44.03560334295634!3d-19.58701576796142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6614080627051%3A0x17b8bc86b8f3a44d!2sTorresminas%20Ind%C3%BAstria%20e%20Com%20de%20Carnes%20e%20Derivados!5e0!3m2!1spt-BR!2sbr!4v1614428852362!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              </div>
+            </div>
+            </section>
             
-
-        </div>
-
-      </section>
 
         <section class="footer">
       
@@ -373,7 +517,7 @@
                   <p>Redes sociais</p>
 
                  
-                  <a target="_blank" href="https://api.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp"></i> </a>
+                  <a target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp"></i> </a>
                   <a href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i style="color: white;" class="fab t i fa-instagram"></i> </a>
                   <a href=""><i style="color: blue;" class="fab t i fa-facebook-f"></i> </a>
                   <hr>
@@ -381,7 +525,7 @@
               <div class="col">
                   <p>Formas de pagamentos</p>
                   <hr>
-                  <ul class="">
+                  <ul class="ico">
                     <li><img src="/img/ico_banco_bradesco.png" alt="">
                     <img src="/img/ico_banco_brasil.png" alt="">
                     <img src="/img/ico_banco_itau.png" alt="">
@@ -398,7 +542,7 @@
           </div> 
         </div>
         <div class=" Copyrigth">
-            &#0169 Copyrigth 2021 | Decora Premiun Interiores | Todos os direitos reservados.
+            &#0169 Copyrigth 2021 | Decora Premiun Interiores | Todos os direitos reservados | Desenvolvido por <a style="color: blue;" href="https://infowebr.com/">infowebr.com</a> 
         </div>
       </section>
 
@@ -426,7 +570,7 @@
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="/img/slider(2).jpg" width="200px" height="500px" alt="Second slide">
-          </div> 
+          </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="/img/slider(3).jpg" width="200px" height="500px" alt="Second slide">
           </div>
@@ -440,7 +584,7 @@
           <span class="sr-only"></span>
         </a>
        
-        <p><a class='quero text-center' href="https://api.whatsapp.com/send?phone=5531971070165&text=Quero%20este%20produto%20(nome%20do%20produto)">Quero!</a></p>
+        <p><a class='quero text-center' href="https://web.whatsapp.com/send?phone=5531971070165&text=Quero%20este%20produto%20(nome%20do%20produto)">Quero!</a></p>
       </div>
     </div>
     
@@ -451,6 +595,43 @@
 
   </form> -->
   
+</div>
+
+
+<!-- <div class="zoom">
+	<img src="/img/imgagensDaLoja/semfundo/img2-removebg-preview.png" class="img-responsive">
+	
+</div>
+
+<div id="myModal" class="modal">
+
+  <span class="close123">&times;</span>
+
+  <div class="zoom">
+  <img width="0px" height="400px" class="modal-content" id="img01">
+  </div>
+  <div id="caption"></div>
+</div> -->
+
+
+<!-- Modal -->
+<div class="modal fade p-0" id="myModal147" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <!-- <div class="modal-header"> -->
+      <div class="close147 x">
+
+<i  data-dismiss="modal" class="far  fa-times-circle"></i>
+</div>
+        
+      <!-- </div> -->
+      <div class="modal-body zoom text-center">
+        <img src="" />
+      </div>
+      <p style="margin-bottom: 30px;" class="text-center " ><a class='quero' target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Quero%20este%20produto%20(nome%20do%20produto)">Quero <i class="fas m-0 anime fa-chevron-right"></i></a></p>
+
+    </div>
+  </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -477,6 +658,31 @@
 
   $(document).ready(function(){
 
+
+    // obter o modal produtos
+// var modal = document.getElementById("myModal");
+
+// obter a imagem e jogala no html do modal
+// var img = document.querySelectorAll("#myImg");
+// var modalImg = document.getElementById("img01");
+// var captionText = document.getElementById("caption");
+// img.forEach(ele=>{
+// ele.onclick = function(){
+//   modal.style.display = "block";
+//   modalImg.src = this.src;
+//   captionText.innerHTML = this.alt;
+// }
+// })
+
+
+// Get the <span> element that closes the modal
+// var span = document.getElementsByClassName("close123")[0];
+
+// When the user clicks on <span> (x), close the modal
+// span.onclick = function() {
+//   modal.style.display = "none";
+// }
+
     //Tempo do sliders
     $('.carousel').carousel({
   interval: 3000
@@ -486,12 +692,28 @@
       $('#modalEmail').modal('show')
       
     })
-     
+
+    let btnpr = document.querySelectorAll('#btn')
+    $(btnpr).click(function() {
+  var url = $(this).find("img").attr("src");
+  $("#myModal147 img").attr("src", url);
+  $("#myModal147").modal("show");
+  
+});
+$('.btn147').click(()=>{
+  $("#myModal147").modal("hide");
+})
+// let close147 = document.querySelectorAll('.close147')
+$('.close147').click(()=>{
+  $("#myModal147").modal("hide");
+
+})
+
   })
   </script>
 
 
-<script>
+<!-- <script>
   let allBtn = document.querySelectorAll('#btn')
     $(allBtn).click(()=>{
           $('#modalProduct').modal('show');
@@ -503,7 +725,7 @@
           console.log('lkfjlasjdfl')
       })
   
-</script>
+</script> -->
  
 <!-- PARA O AJAX -->
 <script type="text/javascript">

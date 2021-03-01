@@ -96,7 +96,7 @@ margin: 10px auto;
    
 }.top{
     margin-top: 40px;
-    background-color: #FD8D49;
+    background-color: black;
     
 }.c{
     padding:100px;
@@ -116,43 +116,55 @@ form{
 }#carousel{
     margin: 0;
 }.btnConf{
-    padding: 10px 20px;
-    background-color: white;
-    color: black;
+    padding: 7px 17px;
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
     border-radius: 100px;
     text-decoration: none;
-
-}.square a{
+    /* border: solid 1px black; */
+    color: white; 
     text-decoration: none;
-    color: black;
 }.caixa{
     width: 300px;
     display:inline-block;
-    margin: 10px 10px 40px;
-    padding-bottom: 10px;
+    margin: 0;
+    padding-bottom: 40px;
 }.div{
     width: 100%;
+    background-color:#e7e7e7;
+    padding-top: 20px;
 }.quero{
     padding: 10px 40px;
     z-index: 10000;
     border-radius: 100px;
     text-decoration: none;
     color: white;
-    font-optical-sizing: 20px;
-   
-    
-    background-color: #cccc;
+    font-size: 17px;
+    background-color: rgba(15, 14, 14, 0.8);
+  
+}.quero:hover{
     border: black solid 1px;
-}.carousel  p{
+    color: white;
+}
+.carousel  p{
      margin-top: 20px;
     
     text-align: center;
 }
 .square,.square1{
-background-color: #D8DCD6;
+background-color: white;
+/* border: solid 1px black; */
 
 }.description p{
     color: green;
+}.description{
+    background-color:white;
+}.description h2{
+    color: rgb(87, 87, 87);
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: 22px 0px 6px;
 }
 .main h1{
     margin: 70px;
@@ -170,7 +182,7 @@ background-color: #D8DCD6;
     margin-bottom: 10px;
     color: #cccc;
 
-}
+
 }.footer a:hover{
     color: blue;
     text-decoration: underline;
@@ -184,7 +196,7 @@ background-color: #D8DCD6;
     color: #cccc;
     padding: 40px;
 }hr{
-    color: white;
+    color: #e7e7e7;
 }.fa-chevron-right{
     color: white;
     margin-right: 10px;
@@ -197,7 +209,7 @@ background-color: #D8DCD6;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 300px;
     width: 100%;
 }.nav-item a{
     padding-right: 30px;
@@ -205,13 +217,13 @@ background-color: #D8DCD6;
     border-right: solid 1px black;
 }.nav-item a:hover{
     opacity: 0.7;
-    background-color:#ff7017 ;
+    background-color: ;
 
 
 }.nav-item p{
     margin-right: 20px;
 }navNormal{
-    background-color:#FD8D49 ;
+    background-color:black ;
 }nav a{
     font-size: 20px;
 }.close{
@@ -228,6 +240,16 @@ background-color: #D8DCD6;
         margin-top: 45px;
     }
 
+.btn {
+    background-color: white;
+   
+}.ico img{
+    width: 35px;
+    margin: 5px;
+
+}.ico li{
+    list-style: none;
+}
 
 
 
@@ -237,4 +259,174 @@ background-color: #D8DCD6;
 
 
 
+/* Style the Image Used to Trigger the Modal */
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #myImg:hover {opacity: 0.7;}
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+  
+  /* Modal Content (Image) */
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 60%;
+    max-width: 700px;
+  }
+  
+  /* Caption of Modal Image (Image Text) - Same Width as the Image */
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  
+  /* Add Animation - Zoom in the Modal */
+  .modal-content, #caption {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  
+  @keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+  }
+  
+  /* The Close Button */
+  .close123 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close123:hover,
+  .close123:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+      width: 100%;
+    }
+  }  
 
+  .imgg{
+      background-color: white;
+  }
+  
+
+
+ 
+  .close147{
+      font-size: 60px;
+      position: absolute;
+      height: 80px;
+      width: 70px;
+      left: -20px;
+      top: -40px;
+      color: red;
+      font-weight: 100;
+      z-index: 200;
+  }
+
+
+
+
+  .zoom {
+	overflow: hidden;
+}
+
+.zoom img {
+	max-width: 100%;
+	-moz-transition: all 0.1s;
+	-webkit-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.zoom:hover img {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.text-item {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	bottom: 20px;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: 700;
+	text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+}
+
+
+
+.anime {
+   color: black;
+    /* animation: go-back 1s infinite alternate; */
+    animation: go-back 1s infinite alternate-reverse;
+  }
+  
+  @keyframes go-back {
+    from {
+      transform: translateX(7px);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }.colunas{
+    background-color: white;
+     margin: 0 20px 20px;
+  }.maisVendidos{
+   padding: 20px 0;
+     background:white;
+
+  }.colunas > p{
+      text-align: center;
+        margin:auto;
+      padding: 40px 0  ;
+      font-size: 20px;
+      font-weight: 400;
+      
+
+  }.destaques  #btn{
+      padding-bottom: 80px;
+    
+  }
+
+
+
+
+  
