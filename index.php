@@ -425,7 +425,7 @@
                 <hr style="margin:0;">
 
                 <div  class="colunas">
-              <p class="h1">Produtos revelantes</p>
+              <p class="h1">Produtos revelantesçç</p>
 
               <div id="btn" class=" caixa  square">
               <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
