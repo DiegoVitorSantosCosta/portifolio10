@@ -7,10 +7,10 @@
 }.carousel-inner a{
     padding: 15px 30px;
     border-radius: 100px;
-    background-color: rgba(255, 255, 255, 0.274);
+    background-color: rgba(0, 0, 0, 0.562);
     text-decoration: none;
     font-size: 20px;
-    color: black;
+    color: white;
     
 }.carousel-inner h5{
     margin-bottom: 100px;
@@ -20,12 +20,12 @@
 }.carousel-inner a:hover{
     font-size: 25px;
     text-decoration: none;
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.562);
     transition: all 0.4s linear;
     padding: 15px 50px;
 }.carousel-inner a:hover > .ic{
-    color: black;
+    color:white;
 }.navPai{
     text-align: left;
 }
@@ -97,6 +97,7 @@ margin: 10px auto;
 }.top{
     margin-top: 40px;
     background-color: black;
+    padding: 10px 0;
     
 }.c{
     padding:100px;
@@ -104,8 +105,13 @@ margin: 10px auto;
     color: white;
     size: 20px;
     margin: 10px;
+}p1{
+    cursor: pointer;
+    color: #cccc ;
 }
 form{
+    display: inline-block;
+}.prevNext{
     display: inline-block;
 }
 .i{
@@ -257,8 +263,6 @@ background-color: white;
 
 
 
-
-
 /* Style the Image Used to Trigger the Modal */
 #myImg {
     border-radius: 5px;
@@ -296,15 +300,18 @@ background-color: white;
     margin: auto;
     display: block;
     width: 80%;
-    max-width: 700px;
+    font-size: 18px;
     text-align: center;
-    color: #ccc;
-    padding: 10px 0;
-    height: 150px;
-  }
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+ 
+  }.imgProductModal{
+    width: 400px;
+}
   
   /* Add Animation - Zoom in the Modal */
-  .modal-content, #caption {
+  /* .modal-content, #caption {
     animation-name: zoom;
     animation-duration: 0.6s;
   }
@@ -312,7 +319,7 @@ background-color: white;
   @keyframes zoom {
     from {transform:scale(0)}
     to {transform:scale(1)}
-  }
+  } */
   
   /* The Close Button */
   .close123 {
@@ -359,7 +366,7 @@ background-color: white;
 
 
 
-
+/* 
   .zoom {
 	overflow: hidden;
 }
@@ -389,7 +396,7 @@ background-color: white;
 	text-align: center;
 	font-weight: 700;
 	text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-}
+} */
 
 
 

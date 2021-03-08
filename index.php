@@ -112,7 +112,7 @@
 
         </li>
         <li class="nav-item">
-          <a class="nav-link" target="_blank" href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i class="fab i fa-instagram"></i> instagram</a>
+          <a class="nav-link" target="_blank" href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><img width="24px" src="/img/instagram.svg" alt=""> instagram</a>
 
         </li>
         <li class="nav-item">
@@ -141,7 +141,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="/img/ofertas/sofa2lugar.png" height="600px" class="d-block w-100" alt="...">
+            <img src="/img/ofertas/slider2.png" height="600px" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
 
               <p><a href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA.">Fale com um consultor ! <i class="fas ic fa-chevron-right"></i></a></p>
@@ -178,7 +178,8 @@
           <p>Melhor preço da região confira.</p>
         </div>
         <!-- <div class="col c1">
-        <img width="100px" src="/img/caminhao.svg"/>
+        <i style="color: white; font-size:90px"  class="fas fa-truck"></i>
+        
           <h3>Entregamos o seu produto!</h3>
           <p>Frete gratis.</p>
 
@@ -194,13 +195,19 @@
 
 
       <section class="main">
-          <h1 class="h1">Imagens de destaques !</h1>
+          <h1 class="h1">destaques !</h1>
           <hr>
           <div class="container-fluid destaques">
         <div class="row text-center">
         <!-- <div id="btn"  class="caixa square"> -->
 
-          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofaVermelho-removebg-preview.png" alt="">
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza </h2>
+            Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+            Cores variadas 
+            Molas no assento 
+            Profundidade 1,10
+
+            Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Sofavermelho.png" alt="">
           <div class="description">
                     <h2>Sofá três Lugares Retrátil</h2>
                    <p>Preço a negociar </p>
@@ -208,7 +215,13 @@
         </div>
         
         </div>
-        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/baú-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza dois </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofa1.png" alt="">
           <div class="description">
                     <h2>Box baú </h2>
                    <p><s>0000.00 R$</s> por 000.00 R$</p>
@@ -216,14 +229,26 @@
         </div>
         </div>
         <div style="display: none;" class="w-100"></div>
-        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofa-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" alt=" <h2>Sofá Monza três </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" width="100%" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/producFund.png" alt="">
           <div class="description">
                     <h2>Sofá  Retrátil</h2>
                    <p>Preço a negociar </p>
                     <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
         </div>
         </div>
-        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaCinza-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" alt=" <h2>Sofá Monza quatro </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" width="100%"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Design sem nome.png" alt="">
           <div class="description">
                     <h2>Sofá três Lugares Retrátil</h2>
                    <p>Preço a negociar </p>
@@ -239,7 +264,13 @@
       <div class="row text-center">
         <!-- <div id="btn"  class="caixa square"> -->
 
-          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaLargoDoisLugares-removebg-preview.png" alt="">
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza cinco </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Design sem nome (5).png" alt="">
           <div class="description">
                     <h2>Sofá dois Lugares </h2>
                    <p>Preço a negociar </p>
@@ -247,7 +278,13 @@
         </div>
         
         </div>
-        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/SofaMarron-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza seis </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Design sem nome (4).png" alt="">
           <div class="description">
                     <h2>Sofá dois Lugares Retrátil</h2>
                    <p>Preço a negociar </p>
@@ -255,14 +292,26 @@
         </div>
         </div>
         <div style="display: none;" class="w-100"></div>
-        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/sofaParaFamilia-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" alt=" <h2>Sofá Monza sete </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Design sem nome (3).png" alt="">
           <div class="description">
                     <h2>Sofá três Lugares Retrátil</h2>
                    <p>Preço a negociar </p>
                     <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
         </div>
         </div>
-        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/baú-removebg-preview.png" alt="">
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" alt=" <h2>Sofá Monza oito </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_maisVendidos/Design sem nome (2).png" alt="">
           <div class="description">
                     <h2>Box báu</h2>
                    <p></p>
@@ -278,15 +327,23 @@
             
         </div>
         <hr>
-      <h1 class="h1">Linha de Produtos</h1>
-          
+
+
+
+      <h1 class="h1">Nossos Produtos</h1>
+
         <div class="div">
-       
+
             <div  class="colunas">
                <p class="h1">Descubra a decora premiun</p>
-            
+
               <div id="btn"  class="caixa square">
-                <img width="250px" height="200px"   id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img1-removebg-preview.png" alt="">
+                <img width="250px" height="200px"   id="myImg" alt=" 
+                  Fabricamos o sofá sobre medida. <br> A madeira é de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável.
+                  As cores são vareadas
+                  Molas no assento
+                  Profundidade 1,10
+                  o assento não é de mola" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (1).png" alt="">
                 <div class="description">
                     <h2>Sofá três Lugares Retrátil</h2>
                    <p>Preço a negociar R$</p>
@@ -297,7 +354,10 @@
            
 
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img2-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="<h2>Colchão Arthurius</h2> 
+                Molas ensacadas com 2 bordas de aço nas laterais 212 molas por metro quadrado 
+                Espuma D28 selado no pillow altura 24 cm ou 28cm .
+                Suporta 115kg por pessoa " src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (10).png" alt="">
 
                 <div class="description">
                     <h2>Colchão Solteiro de Espuma</h2>
@@ -307,7 +367,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img3-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (11).png" alt="">
 
                 <div class="description">
                     <h2>Sofá três lugares</h2>
@@ -317,7 +377,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img8-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (2).png" alt="">
 
                 <div class="description">
                     <h2>Sofá dois lugares marrom</h2>
@@ -334,7 +394,7 @@
               <p class="h1">Produtos com preço de fabrica comfira já.</p>
 
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img5-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (3).png" alt="">
 
                 <div class="description">
                     <h2>Sofá Herval Flora, 2 Lugares e Chaise-longue</h2>
@@ -344,7 +404,7 @@
                   </div>
               </div>
               <div  id="btn"class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img6-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (4).png" alt="">
 
                 <div class="description">
                   <h2>Box baú Auxiliar solteiro 40,5x138x188cm - Branco</h2>
@@ -354,7 +414,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img7-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (5).png" alt="">
 
                 <div class="description">
                     <h2>Cama Box Baú Casal  Preto com Pistão a gás - 138x188</h2>
@@ -364,7 +424,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img8-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (6).png" alt="">
 
                 <div class="description">
                     <h2>Sofá três lugares otimos para sala</h2>
@@ -378,7 +438,7 @@
               <p class="h1">Clique em um minuto e seja atendido no outro!</p>
 
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (7).png" alt="">
 
                 <div class="description">
                     <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
@@ -388,7 +448,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (8).png" alt="">
 
                 <div class="description">
                     <h2>Colchão magnetico + box baú </h2>
@@ -398,7 +458,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (9).png" alt="">
 
                 <div class="description">
                     <h2>Sofá 3 Lugares Retrátil branco</h2>
@@ -408,7 +468,12 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
+              <img width="250px" height="200px" alt="<h2>Cabeceira ou painel  casal </h2>
+                138x cabeceira pra box 
+                Estrutura  madeira de reflorestamento
+                Tecido :corino 
+                Medidas: padrão e especial 
+                Altura: 1,13" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome.png" alt="">
 
                 <div  class="description">
                     <h2>Cabeceira de cama box casal</h2>
@@ -421,6 +486,14 @@
 
               
               <h1 style="margin:0 ;"  class="h1 maisVendidos">Mais vendidos</h1>
+
+
+              <div class="container-fluid cont">
+              <div class="prevNext">
+              <p>></p>
+              <p><</p>
+              </div>
+              </div>
               
                 <hr style="margin:0;">
 
@@ -428,7 +501,7 @@
               <p class="h1">Produtos revelantesçç</p>
 
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
 
                 <div class="description">
                     <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
@@ -438,7 +511,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
 
                 <div class="description">
                     <h2>Colchão magnetico + box baú </h2>
@@ -448,7 +521,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
 
                 <div class="description">
                     <h2>Sofá 3 Lugares Retrátil branco</h2>
@@ -458,7 +531,7 @@
                   </div>
               </div>
               <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="Snow" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
 
                 <div  class="description">
                     <h2>Cabeceira de cama box casal</h2>
@@ -486,41 +559,21 @@
  
              
               <div class=" col box">
-                  <p>Como comprar</p>
+                  <p >Como comprar</p>
                   <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Fretes e entregas</a>
+                  <p1 id="frete"><i class="fas fa-chevron-right"></i>Fretes e entregas</p1>
                   <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Segurança</a>
-                  <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Termos de uso</a>
-                  <hr>
-                  <a href=""> <i class="fas fa-chevron-right"></i> Política de privacidade</a>
+                 <a href=""> <i class="fas fa-chevron-right"></i> Política de privacidade</a>
                   <hr>
               </div>
-              <div class="col">
-                  <p>Institucional</p>
-                  <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Sobre</a>
-                  <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Acesso Rapido</a>
-                  <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>Acessar</a>
-                  <hr>
-              </div>
+           
               <div class="col">
                   <p>Atendimento sac</p>
                   <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>(31) 9 97358907</a>
+                  <a href=""><i class="fas fa-chevron-right"></i>(31) 9 7107-0165</a>
                   <hr>
-                  <a href=""><i class="fas fa-chevron-right"></i>infower.com</a>
-                  <hr>
-                  <p>Redes sociais</p>
-
-                 
-                  <a target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp"></i> </a>
-                  <a href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i style="color: white;" class="fab t i fa-instagram"></i> </a>
-                  <a href=""><i style="color: blue;" class="fab t i fa-facebook-f"></i> </a>
-                  <hr>
+                  <a href="infowebr.com"><i class="fas fa-chevron-right"></i>  infower.com</a>
+     
               </div>
               <div class="col">
                   <p>Formas de pagamentos</p>
@@ -533,12 +586,17 @@
                   
                     </li>  
                   
-                    <li>  <img src="/img/ico_boleto.png" alt=""></li>
                     <!-- <li><i class="fab cardUl fa-cc-mastercard"></i><i class="fab cardUl fa-cc-visa"></i><i class="fab cardUl fa-cc-amex"></i></li>                       -->
                       <hr>
                      
                   </ul>
               </div>
+              <div class="col">
+                  <p>Redes sociais</p>
+
+                  <a target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp"></i> </a>
+                  <a target="_blank" href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i style="color: white;" class="fab t i fa-instagram"></i> </a>
+                  <a target="_blank" href="https://www.facebook.com/decorapremiuminteriores"><i style="color: blue;" class="fab t i fa-facebook-f"></i> </a></div>
           </div> 
         </div>
         <div class=" Copyrigth">
@@ -552,66 +610,25 @@
 <body>
 
 
-<div id="modalProduct" class="modal fade" role="dialog" data-backdrop="static">
-  <div class="modal-dialog  modal-xl  modal-dialog-centered">
+<!-- MODAL FRETE -->
+
+<div id="modalFrete" class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
     <div class="modal-content">
-      <!-- Button to close the modal -->
-      <div class="close x">
-
-        <i  data-dismiss="modal" class="far close fa-times-circle"></i>
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+      
       </div>
-
-
-      <!-- Carousel -->
-      <div id="carouselExampleControls" class="carousel m-0  slide" data-ride="carousel">
-        <div class="carousel-inner h">
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="/img/slider(1).jpg" width="200px" height="500px" alt="First slide">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/img/slider(2).jpg" width="200px" height="500px" alt="Second slide">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/img/slider(3).jpg" width="200px" height="500px" alt="Second slide">
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only"></span>
-        </a>
-       
-        <p><a class='quero text-center' href="https://web.whatsapp.com/send?phone=5531971070165&text=Quero%20este%20produto%20(nome%20do%20produto)">Quero!</a></p>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button id="closeFrete" type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
       </div>
     </div>
-    
   </div>
-  <!-- <form action="" >
-    <input type="text" value="" name="name" id="">
-    <input type="submit">
-
-  </form> -->
-  
 </div>
 
-
-<!-- <div class="zoom">
-	<img src="/img/imgagensDaLoja/semfundo/img2-removebg-preview.png" class="img-responsive">
-	
-</div>
-
-<div id="myModal" class="modal">
-
-  <span class="close123">&times;</span>
-
-  <div class="zoom">
-  <img width="0px" height="400px" class="modal-content" id="img01">
-  </div>
-  <div id="caption"></div>
-</div> -->
 
 
 <!-- Modal -->
@@ -626,7 +643,8 @@
         
       <!-- </div> -->
       <div class="modal-body zoom text-center">
-        <img src="" />
+        <img class="imgProductModal" src="" alt="" />
+        <div id="caption"></div>
       </div>
       <p style="margin-bottom: 30px;" class="text-center " ><a class='quero' target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Quero%20este%20produto%20(nome%20do%20produto)">Quero <i class="fas m-0 anime fa-chevron-right"></i></a></p>
 
@@ -693,10 +711,22 @@
       
     })
 
+    $('#frete').click(()=>{
+      $('#modalFrete').modal('show')
+    })
+
+    $('#closeFrete').click(()=>{
+      $('#modalFrete').modal('hide')
+    })
+
+
+    var captionText = document.getElementById("caption");
     let btnpr = document.querySelectorAll('#btn')
     $(btnpr).click(function() {
   var url = $(this).find("img").attr("src");
+  var alt = $(this).find("img").attr("alt");
   $("#myModal147 img").attr("src", url);
+  captionText.innerHTML = alt;
   $("#myModal147").modal("show");
   
 });
