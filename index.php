@@ -332,9 +332,136 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
 
       <h1 class="h1">Nossos Produtos</h1>
 
-        <div class="div">
 
-            <div  class="colunas">
+
+      <div class="container-fluid destaques">
+        <div class="row text-center">
+        <!-- <div id="btn"  class="caixa square"> -->
+
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza </h2>
+            Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+            Cores variadas 
+            Molas no assento 
+            Profundidade 1,10
+
+            Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (1).png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza dois </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (10).png" alt="">
+          <div class="description">
+                    <h2>Box baú </h2>
+                   <p><s>0000.00 R$</s> por 000.00 R$</p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div style="display: none;" class="w-100"></div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" alt=" <h2>Sofá Monza três </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" width="100%" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (11).png" alt="">
+          <div class="description">
+                    <h2>Sofá  Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" alt=" <h2>Sofá Monza quatro </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" width="100%"  src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (2).png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+
+      
+        
+      </div>  <!-- fim row -->
+
+
+      <div class="row text-center">
+        <!-- <div id="btn"  class="caixa square"> -->
+
+          <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza cinco </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (3).png" alt="">
+          <div class="description">
+                    <h2>Sofá dois Lugares </h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img width="100%" id="myImg" alt=" <h2>Sofá Monza seis </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (4).png" alt="">
+          <div class="description">
+                    <h2>Sofá dois Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div style="display: none;" class="w-100"></div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" alt=" <h2>Sofá Monza sete </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (5).png" alt="">
+          <div class="description">
+                    <h2>Sofá três Lugares Retrátil</h2>
+                   <p>Preço a negociar </p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+        <div id="btn" class="col-6 square col-sm-3"><img id="myImg" width="100%" alt=" <h2>Sofá Monza oito </h2>
+Fabricamos sobre medida madeira de eucalipto reflorestada percinta italiana espuma D28 selada, mecanismo retráteis e reclinável
+Cores variadas 
+Molas no assento 
+Profundidade 1,10
+
+Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (6).png" alt="">
+          <div class="description">
+                    <h2>Box báu</h2>
+                   <p></p>
+                    <a class="btnConf" > Clique > <i class="fas seta fa-caret-right"></i></a>
+        </div>
+        </div>
+
+      </div>
+          </div>
+
+        <!-- <div class="div container-fluid destaques"> -->
+
+            <!-- <div  class="colunas">
                <p class="h1">Descubra a decora premiun</p>
 
               <div id="btn"  class="caixa square">
@@ -353,7 +480,7 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
               </div>
            
 
-              <div id="btn" class=" caixa  square">
+              <div id="btn1" class=" caixa  square">
               <img width="250px" height="200px" id="myImg" alt="<h2>Colchão Arthurius</h2> 
                 Molas ensacadas com 2 bordas de aço nas laterais 212 molas por metro quadrado 
                 Espuma D28 selado no pillow altura 24 cm ou 28cm .
@@ -482,65 +609,148 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
-              </div>
+              </div> -->
 
               
-              <h1 style="margin:0 ;"  class="h1 maisVendidos">Mais vendidos</h1>
+              <h1 style="margin:0;"  class="h1 maisVendidos">Mais vendidos</h1>
 
 
-              <div class="container-fluid cont">
-              <div class="prevNext">
-              <p>></p>
-              <p><</p>
-              </div>
-              </div>
-              
-                <hr style="margin:0;">
 
-                <div  class="colunas">
-              <p class="h1">Produtos revelantesçç</p>
 
-              <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img9-removebg-preview.png" alt="">
+              <div class="container-fluid contecao p-0">
+	
+              <div class="carousell">
+			<div data-js="carousel__item" class="carousel__item carousel__item--visible container-fluid">
+
+      <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img7-removebg-preview.png" alt="">
 
                 <div class="description">
                     <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
                    <p>Preço a negociar</p>
-                   <p></p>
+                  
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
-              <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img10-removebg-preview.png" alt="">
 
-                <div class="description">
-                    <h2>Colchão magnetico + box baú </h2>
-                   <p>R$ 0000.00 10x de 000.00</p>
-                   <p></p>
-                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
-                  </div>
-              </div>
-              <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img12-removebg-preview.png" alt="">
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (7).png" alt="">
 
                 <div class="description">
                     <h2>Sofá 3 Lugares Retrátil branco</h2>
                    <p>Preço  a negóciar</p>
-                   <p></p>
+                  
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
-              <div id="btn" class=" caixa  square">
-              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img13-removebg-preview.png" alt="">
+
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (8).png" alt="">
 
                 <div  class="description">
                     <h2>Cabeceira de cama box casal</h2>
                    <p>R$ 0000.00 10x de 00.00R$</p>
-                   <p></p>
+                  
                     <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
                   </div>
               </div>
+
+
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (9).png" alt="">
+
+                <div  class="description">
+                    <h2>Cabeceira de cama box casal</h2>
+                   <p>R$ 0000.00 10x de 00.00R$</p>
+                  
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
               </div>
+
+
+			</div>
+
+
+    
+
+            
+			<div data-js="carousel__item" class="carousel__item">
+                <img height="300px" src="/img/ofertas/slider2.png" alt="">
+			</div>
+
+
+      
+		
+			<div data-js="carousel__item" class="carousel__item">
+                
+
+      <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/img7-removebg-preview.png" alt="">
+
+                <div class="description">
+                    <h2>Sofá 4 Lugares  com Assento Retrátil </h2>
+                   <p>Preço a negociar</p>
+                  
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (7).png" alt="">
+
+                <div class="description">
+                    <h2>Sofá 3 Lugares Retrátil branco</h2>
+                   <p>Preço  a negóciar</p>
+                  
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (8).png" alt="">
+
+                <div  class="description">
+                    <h2>Cabeceira de cama box casal</h2>
+                   <p>R$ 0000.00 10x de 00.00R$</p>
+                  
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+
+
+              <div id="btn1" class=" caixa  square">
+              <img width="250px" height="200px" id="myImg" alt="lskdajfklsdfjsaldfkjsaklfjaslkdjf" src="/img/imgagensDaLoja/semfundo/produtos/Design sem nome (9).png" alt="">
+
+                <div  class="description">
+                    <h2>Cabeceira de cama box casal</h2>
+                   <p>R$ 0000.00 10x de 00.00R$</p>
+                  
+                    <a class="btnConf" > confira <i class="fas seta fa-caret-right"></i></a>
+                  </div>
+              </div>
+
+
+			</div>
+
+
+
+
+
+		
+			<div class="carousel__actions">
+			  <button class="preview" data-js="carousel__button--prev" aria-label="Slide anterior">
+				<
+			  </button>
+		
+			  <button class="next" data-js="carousel__button--next" aria-label="Próximo slide">
+				>
+			  </button>
+			</div>
+		</div>
+
+		 </div>
+
+        
             </div>
 
             <div class="container-fluid">
@@ -550,7 +760,6 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
               </div>
             </div>
             </section>
-            
 
         <section class="footer">
       
@@ -594,9 +803,9 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
               <div class="col">
                   <p>Redes sociais</p>
 
-                  <a target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp"></i> </a>
-                  <a target="_blank" href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i style="color: white;" class="fab t i fa-instagram"></i> </a>
-                  <a target="_blank" href="https://www.facebook.com/decorapremiuminteriores"><i style="color: blue;" class="fab t i fa-facebook-f"></i> </a></div>
+                  <a target="_blank" href="https://web.whatsapp.com/send?phone=5531971070165&text=Ol%C3%A1%2Cpreciso%20conversar%20com%20voc%C3%AA."><i style="color: green;" class="fab t i fa-whatsapp icones"></i> </a>
+                  <a target="_blank" href="https://www.instagram.com/decorapremiuminteriores/?hl=pt-br"><i style="color: white;" class="fab t i fa-instagram icones"></i> </a>
+                  <a target="_blank" href="https://www.facebook.com/decorapremiuminteriores"><i style="color: blue;" class="fab t i fa-facebook-f icones"></i> </a></div>
           </div> 
         </div>
         <div class=" Copyrigth">
@@ -677,33 +886,11 @@ Obs: o assento não é de mola"  src="/img/imgagensDaLoja/semfundo/destaques_mai
   $(document).ready(function(){
 
 
-    // obter o modal produtos
-// var modal = document.getElementById("myModal");
-
-// obter a imagem e jogala no html do modal
-// var img = document.querySelectorAll("#myImg");
-// var modalImg = document.getElementById("img01");
-// var captionText = document.getElementById("caption");
-// img.forEach(ele=>{
-// ele.onclick = function(){
-//   modal.style.display = "block";
-//   modalImg.src = this.src;
-//   captionText.innerHTML = this.alt;
-// }
-// })
-
-
-// Get the <span> element that closes the modal
-// var span = document.getElementsByClassName("close123")[0];
-
-// When the user clicks on <span> (x), close the modal
-// span.onclick = function() {
-//   modal.style.display = "none";
-// }
+   
 
     //Tempo do sliders
     $('.carousel').carousel({
-  interval: 3000
+  interval: 5000
 
 })
     $('.btnEmail').click(function(){
@@ -763,7 +950,7 @@ $('.close147').click(()=>{
   $(document).ready(()=>{
     $('.submit').click((event)=>{
 
-      console.log('slkdfjasklfj')
+
       event.preventDefault()
       $.ajax({
         url: '/backEnd/insert.php',

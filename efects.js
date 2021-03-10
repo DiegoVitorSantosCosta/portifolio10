@@ -87,5 +87,71 @@ class efect{
    
 }
 
+class Slider{
+    constructor(){
+
+        
+        this.sliders = document.querySelectorAll("[data-js='carousel__item']")
+        this.index = 0
+        
+        this.begin()
+
+        }
+      click(click){
+
+        click.addEventListener('click',()=>{
+      
+
+            if(click.classList == 'next'){
+
+            if(this.sliders.length -1 === this.index ){
+                this.index = 0
+               
+            }else{
+                this.index ++
+               
+            }
+
+              }
+              else{
+
+                if(this.index === 0 ){
+                    
+                    this.index = this.sliders.length -1
+                   
+                }else{
+                    this.index --
+                   
+                }
+
+              }
+            this.extractAddEfect(this.sliders,'carousel__item--visible')
+           
+                this.sliders[this.index].classList.add('carousel__item--visible')
+    })
+      
+      }
+
+  begin(){
+  
+
+    let preview = document.querySelector('.preview')
+    let next = document.querySelector('.next')
+
+    this.click(preview)
+    this.click(next)
+
+ 
+}  
+extractAddEfect(elements,efect){
+    elements.forEach(element=>{
+        element.classList.remove(efect)
+    })
+
+}
+
+}
+window.slider = new Slider()
+
 window.efects = new efect
 
